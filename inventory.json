@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "sku": "WM-001",
+    "quantity": 15,
+    "price": 9.99
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "sku": "MK-002",
+    "quantity": 7,
+    "price": 14.5
+  },
+  {
+    "name": "USB-C Hub",
+    "sku": "UH-003",
+    "quantity": 10,
+    "price": 19.99
+  },
+  {
+    "name": "Webcam 1080p",
+    "sku": "WC-004",
+    "quantity": 5,
+    "price": 24.99
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "sku": "BS-005",
+    "quantity": 8,
+    "price": 29.99
+  },
+  {
+    "name": "External Hard Drive 1TB",
+    "sku": "HD-006",
+    "quantity": 12,
+    "price": 34.99
+  },
+  {
+    "name": "Portable SSD 500GB",
+    "sku": "SS-007",
+    "quantity": 14,
+    "price": 39.99
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "sku": "HP-008",
+    "quantity": 9,
+    "price": 44.99
+  },
+  {
+    "name": "Smartwatch Series 5",
+    "sku": "SW-009",
+    "quantity": 6,
+    "price": 49.99
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "sku": "CP-010",
+    "quantity": 11,
+    "price": 54.99
+  }
+]
